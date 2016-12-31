@@ -1,0 +1,11 @@
+#Table of Contents:
+**Basics of Python for Data Analysis** 
+**Why learn Python for data analysis?**
+**Python 2.7 v/s 3.4**
+**How to install Python?**
+
+**Running a few simple programs in Python**
+**Python libraries and data structures**
+**Python Data Structures**
+**Python Iteration and Conditional Constructs**
+**Python Libraries**
